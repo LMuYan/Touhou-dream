@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+<defs>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ee"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+  <linearGradient id="feather" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a4452"/><stop offset="1" stop-color="#1c1822"/></linearGradient><linearGradient id="ember" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#e0301e"/></linearGradient>
+</defs>
+<g stroke="#d0583a" stroke-width="2.6" stroke-linejoin="round">
+      <path d="M54 62C40 50 22 46 6 50L18 58L8 64L22 68L14 76C30 76 44 72 54 70Z" fill="url(#feather)"/>
+      <path d="M66 62C80 50 98 46 114 50L102 58L112 64L98 68L106 76C90 76 76 72 66 70Z" fill="url(#feather)"/>
+      <path d="M8 50L4 46L10 48ZM112 50L116 46L110 48Z" fill="url(#ember)" stroke="none"/>
+      <ellipse cx="60" cy="68" rx="15" ry="20" fill="url(#feather)"/>
+      <circle cx="60" cy="46" r="13" fill="url(#feather)"/>
+      <path d="M60 50L52 58L60 56L68 58Z" fill="#e8b830" stroke="#7a5a10" stroke-width="1.4"/>
+      <path d="M52 86L48 98L56 92L60 100L64 92L72 98L68 86Z" fill="url(#feather)"/>
+    </g>
+    <ellipse cx="54" cy="44" rx="3.2" ry="3.6" fill="#ff3030"/><ellipse cx="66" cy="44" rx="3.2" ry="3.6" fill="#ff3030"/>
+    <circle cx="53.3" cy="43" r="1.1" fill="#fff"/><circle cx="65.3" cy="43" r="1.1" fill="#fff"/>
+    <path d="M14 76L10 80M106 76L110 80" stroke="url(#ember)" stroke-width="3" stroke-linecap="round"/>
+</svg>

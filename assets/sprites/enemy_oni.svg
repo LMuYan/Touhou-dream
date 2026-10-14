@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+<defs>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ee"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+  <linearGradient id="oniSkin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8a7a"/><stop offset="1" stop-color="#d8463a"/></linearGradient><linearGradient id="tiger" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd23a"/><stop offset="1" stop-color="#e09a10"/></linearGradient>
+</defs>
+<g stroke="#5a1410" stroke-width="2.2" stroke-linejoin="round">
+      <path d="M84 40L100 14L106 18L92 46Z" fill="#7a5034"/>
+      <circle cx="102" cy="14" r="8" fill="#5a3a24"/>
+      <path d="M96 8L100 4M108 12L112 10M100 20L102 24" stroke="#c0a080" stroke-width="2"/>
+      <path d="M34 78Q60 70 86 78L90 104Q60 112 30 104Z" fill="url(#tiger)"/>
+      <path d="M40 86L46 100M54 82L56 104M66 82L64 104M80 86L74 100" stroke="#3a2008" stroke-width="3"/>
+      <path d="M38 66Q60 56 82 66L86 80Q60 86 34 80Z" fill="url(#oniSkin)"/>
+      <circle cx="30" cy="74" r="8" fill="url(#oniSkin)"/>
+      <circle cx="90" cy="74" r="8" fill="url(#oniSkin)"/>
+      <ellipse cx="60" cy="44" rx="26" ry="24" fill="url(#oniSkin)"/>
+      <path d="M44 28L38 6L52 22Z" fill="#fff6d8"/>
+      <path d="M76 28L82 6L68 22Z" fill="#fff6d8"/>
+      <path d="M34 32Q46 18 60 22Q74 18 86 32Q76 26 60 30Q44 26 34 32Z" fill="#2a1a12"/>
+    </g>
+    <ellipse cx="50" cy="42" rx="5" ry="5.6" fill="#fff"/><ellipse cx="70" cy="42" rx="5" ry="5.6" fill="#fff"/>
+    <circle cx="51" cy="43" r="3" fill="#1a0806"/><circle cx="69" cy="43" r="3" fill="#1a0806"/>
+    <path d="M44 34L55 38M76 34L65 38" stroke="#2a1a12" stroke-width="3" stroke-linecap="round"/>
+    <path d="M48 54Q60 62 72 54Q60 58 48 54Z" fill="#7a1a14" stroke="#5a1410" stroke-width="1.6"/>
+    <path d="M51 54L53 59L55 55ZM65 55L67 59L69 54Z" fill="#fff"/>
+</svg>

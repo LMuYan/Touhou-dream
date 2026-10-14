@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="174" viewBox="0 -14 120 174">
+<defs>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ee"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+  <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff1a0"/><stop offset="1" stop-color="#e0b030"/></linearGradient><linearGradient id="dress" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a07ad8"/><stop offset="1" stop-color="#5a3a9a"/></linearGradient><linearGradient id="parasol" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe8f4"/><stop offset="1" stop-color="#e8a8c8"/></linearGradient>
+</defs>
+
+    <g stroke-linejoin="round">
+      <path d="M84 112L96 28" stroke="#8a5a3a" stroke-width="2.4"/>
+      <path d="M68 34C74 8 114 2 118 28Q108 22 100 32Q92 22 82 34Q76 26 68 34Z" fill="url(#parasol)" stroke="#a04a7a" stroke-width="1.8"/>
+      <path d="M82 32L96 6L100 32" fill="none" stroke="#a04a7a" stroke-width="1" opacity="0.6"/>
+    </g>
+    
+  <g stroke-linejoin="round">
+    <path d="M52 138V152M68 138V152" stroke="#fff0e6" stroke-width="7" stroke-linecap="round"/>
+    <path d="M47 150Q51 158 56 152M64 152Q69 158 73 150" fill="#4a2a3a" stroke="#4a2a3a" stroke-width="5" stroke-linecap="round"/>
+    <path d="M44 112L32 142Q60 148 88 142L76 112Z" fill="url(#dress)" stroke="#2a1a4a" stroke-width="2"/>
+    <path d="M33 139Q60 145 87 139" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <path d="M50 116L46 143M60 117V145M70 116L74 143" stroke="#2a1a4a" stroke-width="1.2" opacity="0.5"/>
+    <path d="M46 96Q60 92 74 96L78 116Q60 120 42 116Z" fill="url(#dress)" stroke="#2a1a4a" stroke-width="2"/>
+    <path d="M45 100L34 124L43 128L52 106Z" fill="#ffffff" stroke="#4a4a5a" stroke-width="1.8"/>
+    <path d="M75 100L86 124L77 128L68 106Z" fill="#ffffff" stroke="#4a4a5a" stroke-width="1.8"/>
+    <circle cx="38" cy="128" r="4" fill="#fff0e6" stroke="#9a5e4e" stroke-width="1.4"/>
+    <circle cx="82" cy="128" r="4" fill="#fff0e6" stroke="#9a5e4e" stroke-width="1.4"/>
+  </g>
+    <path d="M50 100V140M70 100V140" stroke="#ffffff" stroke-width="3" opacity="0.7"/>
+    <path d="M30 72C26 100 28 128 36 148L44 140L50 150L56 142L60 150L64 142L70 150L76 140L84 148C92 128 94 100 90 72Z" fill="url(#hair)" stroke="#9a7414" stroke-width="2" stroke-linejoin="round"/>
+    
+  <path d="M28 62C24 36 42 20 60 20C78 20 96 36 92 62C94 80 86 96 72 102L60 104L48 102C34 96 26 80 28 62Z" fill="url(#hair)" stroke="#9a7414" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M40 40Q50 30 62 30M70 34Q80 40 84 52" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+  <path d="M60 46Q52 64 54 92M60 46Q70 66 66 94M60 46Q42 60 40 88M60 46Q78 60 80 88" fill="none" stroke="#9a7414" stroke-width="1.2" opacity="0.45"/>
+    <g stroke="#7a0a14" stroke-width="1.2" stroke-linejoin="round">
+      <path d="M44 146L36 142L38 152ZM44 146L50 154L42 154Z" fill="#e8303e"/>
+      <path d="M76 146L84 142L82 152ZM76 146L70 154L78 154Z" fill="#e8303e"/>
+    </g>
+    <g stroke-linejoin="round">
+      <path d="M26 44C24 22 40 10 60 10C80 10 96 22 94 44C82 38 70 36 60 36C50 36 38 38 26 44Z" fill="#ffffff" stroke="#8a8aa0" stroke-width="2"/>
+      <path d="M28 40Q60 30 92 40" fill="none" stroke="#e8303e" stroke-width="2.6"/>
+      <path d="M56 38L48 30L46 40ZM64 38L72 30L74 40Z" fill="#e8303e" stroke="#7a0a14" stroke-width="1.2"/>
+    </g>
+</svg>

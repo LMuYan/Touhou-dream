@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+<defs>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ee"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+  <radialGradient id="eyeball" cx="0.4" cy="0.35" r="0.7"><stop offset="0" stop-color="#ffb0c8"/><stop offset="1" stop-color="#d81f5a"/></radialGradient>
+</defs>
+<path d="M60 60C40 64 26 76 18 96M60 60C80 64 94 76 102 96M60 60C58 80 62 96 58 112" fill="none" stroke="#e83a6a" stroke-width="3"/>
+    <path d="M18 96C14 92 20 86 22 92C24 86 30 92 26 96L22 100Z" fill="#e83a6a"/>
+    <path d="M102 96C98 92 104 86 106 92C108 86 114 92 110 96L106 100Z" fill="#e83a6a"/>
+    <circle cx="60" cy="56" r="26" fill="url(#eyeball)" stroke="#6a0a2a" stroke-width="2.6"/>
+    <ellipse cx="60" cy="56" rx="17" ry="13" fill="#ffffff" stroke="#6a0a2a" stroke-width="1.6"/>
+    <circle cx="60" cy="56" r="9" fill="#e83a6a"/><circle cx="60" cy="56" r="4.6" fill="#2a0410"/>
+    <circle cx="57" cy="53" r="2" fill="#fff"/>
+</svg>

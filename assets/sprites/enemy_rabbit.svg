@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+<defs>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ee"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e4dde4"/></linearGradient><linearGradient id="scarf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9ec0"/><stop offset="1" stop-color="#e05a8a"/></linearGradient>
+</defs>
+<g stroke="#6a5a66" stroke-width="2.4" stroke-linejoin="round">
+      <path d="M44 46C34 26 32 6 40 4C50 4 54 24 54 42Z" fill="url(#fur)"/>
+      <path d="M76 46C86 26 88 6 80 4C70 4 66 24 66 42Z" fill="url(#fur)"/>
+      <path d="M43 40C38 26 38 14 41 10C46 12 49 26 50 38Z" fill="#ffb8cc" stroke="none"/>
+      <path d="M77 40C82 26 82 14 79 10C74 12 71 26 70 38Z" fill="#ffb8cc" stroke="none"/>
+      <ellipse cx="60" cy="74" rx="32" ry="28" fill="url(#fur)"/>
+      <path d="M36 88Q60 100 84 88L82 96Q60 108 38 96Z" fill="url(#scarf)"/>
+      <ellipse cx="38" cy="98" rx="8" ry="6" fill="url(#fur)"/>
+      <ellipse cx="82" cy="98" rx="8" ry="6" fill="url(#fur)"/>
+    </g>
+    <ellipse cx="49" cy="70" rx="5" ry="6.5" fill="#d0202e"/><ellipse cx="71" cy="70" rx="5" ry="6.5" fill="#d0202e"/>
+    <circle cx="47.5" cy="68" r="2" fill="#fff"/><circle cx="69.5" cy="68" r="2" fill="#fff"/>
+    <path d="M57 80Q60 83 63 80" fill="none" stroke="#6a5a66" stroke-width="1.8" stroke-linecap="round"/>
+    <ellipse cx="40" cy="80" rx="5" ry="2.4" fill="#ff8fa3" opacity="0.5"/><ellipse cx="80" cy="80" rx="5" ry="2.4" fill="#ff8fa3" opacity="0.5"/>
+</svg>

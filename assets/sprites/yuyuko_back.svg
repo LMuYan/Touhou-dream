@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="174" viewBox="0 -14 120 174">
+<defs>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ee"/><stop offset="1" stop-color="#fff0e6"/></linearGradient>
+  <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd0ec"/><stop offset="1" stop-color="#ec8ac4"/></linearGradient><linearGradient id="kimono" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d8ecff"/><stop offset="1" stop-color="#8ab4e8"/></linearGradient>
+</defs>
+
+    
+  <g stroke-linejoin="round">
+    <path d="M52 142V152M68 142V152" stroke="#fff0e6" stroke-width="7" stroke-linecap="round"/>
+    <path d="M47 150Q51 158 56 152M64 152Q69 158 73 150" fill="#3a2a4a" stroke="#3a2a4a" stroke-width="5" stroke-linecap="round"/>
+    <path d="M44 112L32 146Q60 152 88 146L76 112Z" fill="url(#kimono)" stroke="#3a5a8a" stroke-width="2"/>
+    <path d="M33 143Q60 149 87 143" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <path d="M50 116L46 147M60 117V149M70 116L74 147" stroke="#3a5a8a" stroke-width="1.2" opacity="0.5"/>
+    <path d="M46 96Q60 92 74 96L78 116Q60 120 42 116Z" fill="url(#kimono)" stroke="#3a5a8a" stroke-width="2"/>
+    <path d="M45 100L34 124L43 128L52 106Z" fill="url(#kimono)" stroke="#3a5a8a" stroke-width="1.8"/>
+    <path d="M75 100L86 124L77 128L68 106Z" fill="url(#kimono)" stroke="#3a5a8a" stroke-width="1.8"/>
+    <circle cx="38" cy="128" r="4" fill="#fff0e6" stroke="#9a5e4e" stroke-width="1.4"/>
+    <circle cx="82" cy="128" r="4" fill="#fff0e6" stroke="#9a5e4e" stroke-width="1.4"/>
+  </g>
+    <path d="M44 100L22 130L38 136L52 108ZM76 100L98 130L82 136L68 108Z" fill="url(#kimono)" stroke="#3a5a8a" stroke-width="1.8"/>
+    <path d="M32 72C28 92 32 106 40 112L46 106L52 114L60 108L68 114L74 106L80 112C88 106 92 92 88 72Z" fill="url(#hair)" stroke="#a04a7a" stroke-width="2" stroke-linejoin="round"/>
+    
+  <path d="M28 62C24 36 42 20 60 20C78 20 96 36 92 62C94 80 86 96 72 102L60 104L48 102C34 96 26 80 28 62Z" fill="url(#hair)" stroke="#a04a7a" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M40 40Q50 30 62 30M70 34Q80 40 84 52" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+  <path d="M60 46Q52 64 54 92M60 46Q70 66 66 94M60 46Q42 60 40 88M60 46Q78 60 80 88" fill="none" stroke="#a04a7a" stroke-width="1.2" opacity="0.45"/>
+    
+  <g stroke-linejoin="round">
+    <path d="M26 42C24 20 40 8 60 8C80 8 96 20 94 42C82 36 70 34 60 34C50 34 38 36 26 42Z" fill="#cfe6ff" stroke="#4a6a9a" stroke-width="2"/>
+    <path d="M28 38Q60 28 92 38" fill="none" stroke="#4a6a9a" stroke-width="1.6"/>
+    <path d="M52 12L60 0L68 12Z" fill="#ffffff" stroke="#8a8aa0" stroke-width="1.4"/>
+    <path d="M57 9Q60 4 63 9Q60 11 58 8" fill="none" stroke="#d81f2e" stroke-width="1.2"/>
+  </g>
+</svg>
